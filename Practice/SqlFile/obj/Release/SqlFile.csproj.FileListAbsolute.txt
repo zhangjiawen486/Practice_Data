@@ -1,0 +1,8 @@
+D:\作业\c#练习\Practice\SqlFile\obj\Release\SqlFile.frmConfig.resources
+D:\作业\c#练习\Practice\SqlFile\obj\Release\SqlFile.csproj.GenerateResource.Cache
+D:\作业\c#练习\Practice\SqlFile\bin\Release\SqlFile.dll
+D:\作业\c#练习\Practice\SqlFile\bin\Release\SqlFile.pdb
+D:\作业\c#练习\Practice\SqlFile\bin\Release\IniFile.dll
+D:\作业\c#练习\Practice\SqlFile\bin\Release\IniFile.pdb
+D:\作业\c#练习\Practice\SqlFile\obj\Release\SqlFile.dll
+D:\作业\c#练习\Practice\SqlFile\obj\Release\SqlFile.pdb

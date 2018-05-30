@@ -1,0 +1,13 @@
+E:\作业\c#练习\PracticeAdmin\IniFile\bin\Debug\IniFile.dll
+E:\作业\c#练习\PracticeAdmin\IniFile\bin\Debug\IniFile.pdb
+E:\作业\c#练习\PracticeAdmin\IniFile\obj\Debug\IniFile.dll
+E:\作业\c#练习\PracticeAdmin\IniFile\obj\Debug\IniFile.pdb
+D:\作业\c#练习\PracticeAdmin\IniFile\bin\Debug\IniFile.dll
+D:\作业\c#练习\PracticeAdmin\IniFile\bin\Debug\IniFile.pdb
+D:\作业\c#练习\PracticeAdmin\IniFile\obj\Debug\IniFile.dll
+D:\作业\c#练习\PracticeAdmin\IniFile\obj\Debug\IniFile.pdb
+D:\作业\c#练习\Practice项目\PracticeAdmin\IniFile\bin\Debug\IniFile.dll
+D:\作业\c#练习\Practice项目\PracticeAdmin\IniFile\bin\Debug\IniFile.pdb
+D:\作业\c#练习\Practice项目\PracticeAdmin\IniFile\obj\Debug\IniFile.csprojResolveAssemblyReference.cache
+D:\作业\c#练习\Practice项目\PracticeAdmin\IniFile\obj\Debug\IniFile.dll
+D:\作业\c#练习\Practice项目\PracticeAdmin\IniFile\obj\Debug\IniFile.pdb
